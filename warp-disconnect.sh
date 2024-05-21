@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Warp Connect
+# @raycast.title Warp Disconnect
 # @raycast.mode compact
 
 # Optional parameters:
