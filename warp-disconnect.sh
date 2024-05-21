@@ -6,6 +6,6 @@
 # @raycast.mode compact
 
 # Optional parameters:
-# @raycast.icon 🤖
+# @raycast.icon 🌥️
 
-warp-cli connect
+warp-cli disconnect
