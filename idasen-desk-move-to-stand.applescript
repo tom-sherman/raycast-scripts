@@ -6,7 +6,7 @@
 # @raycast.mode compact
 
 # Optional parameters:
-# @raycast.icon 🤖
+# @raycast.icon ⛩
 
 tell application "Desk Controller"
     move "108cm"
