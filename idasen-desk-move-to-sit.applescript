@@ -9,5 +9,5 @@
 # @raycast.icon ⛩
 
 tell application "Desk Controller"
-    move "73cm"
+    move "70cm"
 end tell
