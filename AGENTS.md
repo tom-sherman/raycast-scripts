@@ -9,6 +9,7 @@ Scripts live in `scripts/`, one file per command. Current inhabitants:
 - `scripts/bsky-resolve.sh` — resolve a Bluesky handle to a DID
 - `scripts/fxtwitter-clipboard.sh` — rewrite an x.com/twitter.com link in the clipboard to fxtwitter.com
 - `scripts/warp-connect.sh` / `scripts/warp-disconnect.sh` — toggle Cloudflare WARP
+- `scripts/glide-pause.sh` / `scripts/glide-resume.sh` — pause/resume the Glide window manager
 - `scripts/idasen-desk-move-to-sit.applescript` / `scripts/idasen-desk-move-to-stand.applescript` — drive an Idasen standing desk via the Desk Controller app
 
 Point Raycast's Script Commands directory at `scripts/`.
